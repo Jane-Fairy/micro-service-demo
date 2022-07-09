@@ -2,6 +2,7 @@ package cn.tj.mappker;
 
 import cn.tj.entity.Dept;
 import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
@@ -12,6 +13,7 @@ import java.util.List;
  * @Work zsj ヾ(ﾟ∀ﾟゞ)
  */
 @Mapper
+@Repository
 public interface DeptMapper {
     //根据主键获取数据
     Dept selectByPrimaryKey(Integer deptNo);
