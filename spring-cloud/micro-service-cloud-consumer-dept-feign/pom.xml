@@ -16,6 +16,11 @@
     </properties>
     <dependencies>
         <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>cn.tj</groupId>
             <artifactId>micro-service-cloud-api</artifactId>
             <version>1.0-SNAPSHOT</version>
