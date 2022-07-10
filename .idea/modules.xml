@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guli-coupon/coupon.iml" filepath="$PROJECT_DIR$/guli-coupon/coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-member/demo (1).iml" filepath="$PROJECT_DIR$/guli-member/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-order/demo (2).iml" filepath="$PROJECT_DIR$/guli-order/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-ware/demo (3) (cn.tj.gulimall.gulimall-member).iml" filepath="$PROJECT_DIR$/guli-ware/demo (3) (cn.tj.gulimall.gulimall-member).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo (4).iml" filepath="$PROJECT_DIR$/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli-product/guli-product.iml" filepath="$PROJECT_DIR$/guli-product/guli-product.iml" />
+    </modules>
+  </component>
+</project>
